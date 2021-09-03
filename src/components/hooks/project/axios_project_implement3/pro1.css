@@ -1,0 +1,18 @@
+#root{
+	text-align:initial;
+}
+#ulist{
+	display: flex;
+	font-size: larger;
+    font-weight: 800;
+    font-family: system-ui;
+    text-decoration-line: underline;
+    color: crimson;
+}
+#commenthead{
+	position: relative;
+	left: 229px;
+}
+#namehead{
+	margin-left: -15px;
+}

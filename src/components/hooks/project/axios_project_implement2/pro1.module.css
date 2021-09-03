@@ -1,0 +1,19 @@
+.list{
+	width: 144px;
+	list-style: none;
+	display: inline-flex;
+	font-size: larger;
+	font-weight: 800;
+	padding-right: 34px;
+}
+li{
+	list-style: none;
+	margin-bottom: 10px;
+    padding-bottom: 4px;
+}
+.data{
+	font-family: -webkit-pictograph;
+}
+.contain{
+	display: flex;
+}

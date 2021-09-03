@@ -1,0 +1,13 @@
+.containers{
+	display:grid;
+	grid-template-columns:338px 333px 299px;
+	grid-gap: 10px;
+}
+.items{
+	background-color: white;
+    border: 2px solid black;
+    text-align: center
+}
+h3{
+	color:red;
+}
